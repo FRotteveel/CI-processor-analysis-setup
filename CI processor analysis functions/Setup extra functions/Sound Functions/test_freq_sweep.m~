@@ -1,0 +1,9 @@
+[x, fs, freqs] = freq_sweep(100e-3);
+
+x = 
+
+% plot(freqs, '-o')
+
+p = audioplayer(x, fs, 24);
+play(p);
+

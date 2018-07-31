@@ -1,0 +1,9 @@
+
+for i=0:500
+    
+    fprintf('% 3d%%', round(i/500*100);
+    pause(.01)
+    fprintf('\b\b\b\b');
+end
+fprintf('\n');
+

@@ -2,8 +2,9 @@
 Functions to characterize cochlear implant processors using an experimental setup.
 Note: The Nucleus Matlab Toolbox is should be installed.
 
-Setup main functions are the essential functions for creating electrodograms
+Setup main functions are the essential functions for creating electrodograms.
 Setup extra functions are additional functions used during this project.
+
 Folders:
   Plotting NMT, for visualizing characteristics of the NMT simulations
   Sound File Functions, for generating wav files for the experimental setup

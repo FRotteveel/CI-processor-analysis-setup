@@ -1,4 +1,4 @@
-# setup of CI processor analysis
+# setup for CI processor analysis
 Functions to characterize cochlear implant processors using an experimental setup.
 Note: The Nucleus Matlab Toolbox is should be installed.
 
